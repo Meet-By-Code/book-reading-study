@@ -1,4 +1,4 @@
-package com.daramKim.capter2.item5;
+package capter2.item5;
 
 import java.util.List;
 
